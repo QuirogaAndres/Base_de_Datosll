@@ -1,6 +1,6 @@
 # Base_de_Datosll
 Portafolio de la asignatura de datos ll
-Portafolio de la asignatura de datos ll
+<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
@@ -10,9 +10,8 @@ Portafolio de la asignatura de datos ll
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <br />
-    <br />
-    <a href="https://github.com/QuirogaAndres/Base_de_Datosll/tree/main/Hito%201">Hito_1</a>
+    <a 
+ href="https://github.com/QuirogaAndres/Base_de_Datosll/tree/main/Hito%201">Hito_1</a>
 	<a
 	href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito%201/Diagnostico.docx">Diagnostico</a>
     ·
