@@ -11,7 +11,6 @@ Portafolio de la asignatura de datos ll
   <p align="center">
     An awesome README template to jumpstart your projects!
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://github.com/QuirogaAndres/Base_de_Datosll/tree/main/Hito%201">Hito_1</a>
