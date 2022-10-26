@@ -1,7 +1,6 @@
 # Base_de_Datosll
 Portafolio de la asignatura de datos ll
 Portafolio de la asignatura de datos ll
-<!-- Improved compatibility of back to top link: See: https://github.com/othneildrew/Best-README-Template/pull/73 -->
 <a name="readme-top"></a>
 
 
