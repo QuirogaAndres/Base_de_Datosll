@@ -51,7 +51,7 @@
 
 > * [Documentos]
 >   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_5%20Proyecto_Final/MODELO%20LOGICO.pdf">Modelo_Logico</a>
->   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_5%20Proyecto_Final/Presentaci%C3%B3n%20De%20Proyecto%20Base%20de%20datos%20bliblioteca.pptx">Presentacion</a>
+>   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_5%20Proyecto_Final/Presentaci.pptx">Presentacion</a>
 >   <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_5%20Proyecto_Final/Proyecto%20final%20DBA%20Hito%205-5.pdf">Informe/a>
 >   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_5%20Proyecto_Final/modelo%20ER.pdf">Modelo_ER</a>
   
