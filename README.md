@@ -39,8 +39,8 @@
 >   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/Lab_2/console_2.sql">Lab_2</a>
 
 > * [Trabajo_Final]
->   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/TAREA%20HITO%204_BDAII.pptx">Tarea</a>
->   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/TAREA%20HITO%204_BDAII.pdf">Tarea</a>
->   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/Link.txt">Tarea</a>
+>   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/TAREA%20HITO%204_BDAII.pptx">PowerPoint</a>
+>   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/TAREA%20HITO%204_BDAII.pdf">Pdf</a>
+>   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/Link.txt">Video</a>
 >   
 
