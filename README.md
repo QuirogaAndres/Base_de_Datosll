@@ -36,3 +36,4 @@
 
 > * [Laboratorios]
 >   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/console_2.sql">Lab_1</a>
+>   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/Lab_2/console_2.sql">Lab_2</a>
