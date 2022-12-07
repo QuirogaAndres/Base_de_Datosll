@@ -42,5 +42,7 @@
 >   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/TAREA%20HITO%204_BDAII.pptx">PowerPoint</a>
 >   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/TAREA%20HITO%204_BDAII.pdf">Pdf</a>
 >   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/Link.txt">Video</a>
->   
+
+> * [Examen]   
+>   * <a href="https://github.com/QuirogaAndres/Base_de_Datosll/blob/main/Hito_4/Lab1/Examen/console_3.sql">Examen</a>
 
